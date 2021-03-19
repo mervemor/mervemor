@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Merve Mor
 
-🌱 I’m currently learning .NET Core, React.js
+#🌱 I’m currently learning .NET Core, React.js
 <!--
 **mervemor/mervemor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
