@@ -1,7 +1,9 @@
-# Hi there 👋, I'm Merve Mor
+# Hi there, I'm Merve Mor 👋
 
--🌱 I’m currently learning .NET Core, React.js
--📫 How to reach me: merve.mor@hotmail.com
+## I'm a Junior Software Developer
+
+- 🌱 I’m currently learning .NET Core, React.js
+- 📫 How to reach me: merve.mor@hotmail.com
 
 <!--
 **mervemor/mervemor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
