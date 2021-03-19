@@ -2,7 +2,7 @@
 
 <h2 align="center"> I'm Junior Software Developer </h2>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mervemor" alt="mervemor"  height="40" width="40"/></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mervemor" alt="mervemor"  height="200" width="200"/></a> </p>
 
 - 🌱 I’m currently learning .NET Core, React.js
 - 📫 How to reach me: merve.mor@hotmail.com
