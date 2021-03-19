@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Merve Mor 👋</h1>
 
-<h2 align="left" height="20" width="20"> I'm Junior Software Developer </h2>
+<h2 align="left" height="10" width="10"> I'm Junior Software Developer </h2>
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mervemor" alt="mervemor" /></a> </p>
 
