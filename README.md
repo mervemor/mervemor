@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Merve Mor 👋</h1>
 
-<h2 align="center"> I'm Junior Software Developer </h2>
+<h2 align="center"> I'm Junior Backend Developer </h2>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mervemor" alt="mervemor"  /></a> </p>
 
